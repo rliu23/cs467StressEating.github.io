@@ -11,8 +11,10 @@ During the study, 10 participants took part in the experiment. Participants atte
 ## Results
 Heart rate, calorie intake, and number of eating gestures were all confirmed to increase significantly from the Relax session to the Stress session. Mean heart rate increased from 72.1 beats per minute (BPM) during the Relax session to 89.8 BPM during the Stress session, with a p-value of 0.005, indicating that this difference is statistically significant. 
 <img width="552" height="743" alt="image" src="https://github.com/user-attachments/assets/e76353b0-d426-4eb4-8b0e-90ffbd819cee" />
+
 This figure compares individual caloric intake during the relaxation and stress phases, with lines connecting each participant’s values. The mean caloric intake in kcals increased from 185.2 kcal during the Relax session to 238.7 kcal during the Stress session, with a p-value < 0.001, indicating this difference is statistically significant.
 <img width="554" height="740" alt="image" src="https://github.com/user-attachments/assets/9c6e47fa-24d1-4c60-ba10-748396ba0f60" />
+
 This figure shows the number of eating actions per participant, as detected by the PhysioHub sensor. The mean number of eating actions increased from 48 actions during the Relax session to 66.5 actions during the Stress session, with a p-value of 0.001, indicating this difference is statistically significant.
 
 
